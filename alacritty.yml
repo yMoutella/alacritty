@@ -7,9 +7,6 @@ window:
     general: Alacritty
   opacity: 0.9
   blur: true
-  decorations: Full
-  option_as_alt: OnlyLeft
-  startup_mode: Maximized
 scrolling:
   history: 10000
   multiplier: 3
@@ -57,9 +54,6 @@ colors:
   hints.start:
     foreground: "#1e1e2e"
     background: "#f9e2af"
-  hints.start:
-    foreground: "#1e1e2e"
-    background: "#a6adc8"
   selection:
     text: "#1e1e2e"
     background: "#f5e0dc"

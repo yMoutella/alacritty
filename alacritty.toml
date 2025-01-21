@@ -1,0 +1,90 @@
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Super|Shift"
+
+[bell]
+animation = "Ease"
+duration = 1
+
+[colors.bright]
+black = "#585b70"
+blue = "#89b4fa"
+cyan = "#94e2d5"
+green = "#a6e3a1"
+magenta = "#f5c2e7"
+red = "#f38ba8"
+white = "#bac2de"
+yellow = "#f9e2af"
+
+[colors.cursor]
+cursor = "#f5e0dc"
+text = "#1e1e2e"
+
+[colors.footer_bar]
+background = "#a6adc8"
+foreground = "#1e1e2e"
+
+
+[colors.normal]
+black = "#45475a"
+blue = "#89b4fa"
+cyan = "#94e2d5"
+green = "#a6e3a1"
+magenta = "#f5c2e7"
+red = "#f38ba8"
+white = "#bac2de"
+yellow = "#f9e2af"
+
+[colors.primary]
+background = "#1e1e2e"
+bright_foreground = "#cdd6f4"
+dim_foreground = "#7f849c"
+foreground = "#cdd6f4"
+
+
+
+[colors.selection]
+background = "#f5e0dc"
+text = "#1e1e2e"
+
+[colors.vi_mode_cursor]
+cursor = "#b4befe"
+text = "#1e1e2e"
+
+[font]
+size = 10
+
+[font.bold]
+family = "JetBrains Mono Nerd Font"
+style = "Bold"
+
+
+[font.italic]
+family = "JetBrains Mono Nerd Font"
+style = "MediumItalic"
+
+[font.normal]
+family = "JetBrains Mono Nerd Font"
+style = "Medium"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+blur = true
+decorations = "Full"
+opacity = 0.9
+option_as_alt = "OnlyLeft"
+startup_mode = "Maximized"
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
+
+[window.padding]
+x = 15
+y = 5
+
+[keyboard]
